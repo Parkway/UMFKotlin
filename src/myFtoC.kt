@@ -25,4 +25,4 @@ fun CtoF() {
     val Ctemp = readLine()!!.toDouble()
     val Ftemp = (Ctemp * 9/5) + 32
     println("$Ctemp°C is $Ftemp°F")
-}
+} //Useless comment, will remove.
